@@ -1,5 +1,4 @@
 # LLM-and-Image-model-app-using-Google-Gemini
-# Project Title
 
 ## Overview
 This repository contains a collaborative project leveraging Google Gemini to build a powerful application that integrates Large Language Models (LLM) and Image models. The project aims to provide a seamless user experience by combining advanced natural language understanding with sophisticated image analysis.
@@ -13,6 +12,8 @@ This repository contains a collaborative project leveraging Google Gemini to bui
 - [Google Gemini](#) - (Include a link to relevant documentation or resource)
 - [LLM Framework] - (Specify the framework or library for Large Language Models)
 - [Image Model Framework] - (Specify the framework or library for Image Models)
+- [langchain] - (LLM Model)
+
 
 ## Getting Started
 Follow these steps to get the project up and running on your local machine.
@@ -21,9 +22,6 @@ Follow these steps to get the project up and running on your local machine.
 2. Install dependencies: `npm install` or `pip install -r requirements.txt` (or any other relevant commands)
 3. Configure API keys: Add your Google Gemini API key and any other necessary credentials.
 4. Run the application: `npm start` or `python app.py` (or any other relevant commands)
-
-## Contribution Guidelines
-We welcome contributions! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
