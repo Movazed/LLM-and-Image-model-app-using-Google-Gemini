@@ -9,10 +9,10 @@ This repository contains a collaborative project leveraging Google Gemini to bui
 - **Collaborative Approach:** The project encourages collaboration, allowing developers to contribute and enhance both language and image-related functionalities.
 
 ## Technologies Used
-- [Google Gemini](#) - (Include a link to relevant documentation or resource)
-- [LLM Framework] - (Specify the framework or library for Large Language Models)
-- [Image Model Framework] - (Specify the framework or library for Image Models)
-- [langchain] - (LLM Model)
+- [Google Gemini](#) - (https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini)
+- [LLM Framework] - ([Gemini pro](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini))
+- [Image Model Framework] - ([Gemini Pro vision] https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini)
+- [langchain] - (https://python.langchain.com/docs/modules/chains/document/)
 
 
 ## Getting Started
